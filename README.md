@@ -1,7 +1,7 @@
 # Assignment-DataAnalysis
 Assignment on data analysis - 1 
 
-Using Pandas library on the dataset Brands.csv , find out the solution to problems below -
+Using Pandas library on the dataset brand_details.csv , find out the solution to problems below -
 
 Problem 1 - Which industry has the maximum brands whose Brand_Revenue > 80 Million (Brand revenue is in millions)
 
